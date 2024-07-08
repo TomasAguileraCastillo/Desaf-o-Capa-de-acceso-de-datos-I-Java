@@ -105,3 +105,9 @@ Consideraciones y recomendaciones
  ![alt text](image-4.png)
 
  ![alt text](image-3.png)
+
+Para realizar pruebas se debe cambiar los parametros de conexion Singleton a la Base de datos en el package conexion 
+
+se adjunta imagen 
+
+![alt text](image-5.png)
