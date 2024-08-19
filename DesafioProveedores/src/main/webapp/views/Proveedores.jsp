@@ -9,11 +9,11 @@
  
  	<!-- Inicio Main -->
 	<main>
-		<!-- Seccion Form -->
+		<!-- Seccion Form ---->
 			<section >
 				<br/>
 				<div class="container ">
-					<div class="col-12">
+					<div  class="col-12">
 						<a class="btn btn-primary" role="button" id="btnAgregarR">Agregar Registro
 							<i class="bi bi-file-earmark-plus"></i>
 						</a>
